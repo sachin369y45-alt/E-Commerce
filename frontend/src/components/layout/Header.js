@@ -143,7 +143,7 @@ const Header = () => {
                   Login
                 </Link>
                 <Link
-                  to="/register"
+                  to="/regiloster"
                   className="btn btn-primary text-sm"
                 >
                   Register
